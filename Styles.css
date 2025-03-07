@@ -1,0 +1,12 @@
+.titulo_1{
+    color:darkgreen;
+}
+.titulo_1:hover{
+    color:black;
+}
+.titulo_2{
+    color: darkblue;
+}
+.titulo_3{
+    color:brown;
+}
